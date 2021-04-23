@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+
+footer {
+	background-color: brown;
+	text-align: center;
+	padding: 20px 0;
+	font-style: italic;
+}

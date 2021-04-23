@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+header {
+	background-color: brown;
+}
+
+header h1 {
+	text-align: center;
+	padding: 15px 0;
+}
+
+header ul {
+	background-color: orange;
+	display: flex;
+}
+
+header ul a {
+	display: inline-block;
+	padding: 10px 15px;
+}

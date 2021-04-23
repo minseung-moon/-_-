@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+
+#main {
+	padding: 10px 0;
+}
+
+#main h2 {
+	padding: 10px 0;
+	text-align: center;
+}
+
+#main table, tr, td, th {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+#main table {
+	border-collapse: collapse;
+	margin: 0 auto;
+}
+
+#main table td {
+	padding: 5px 10px;
+}

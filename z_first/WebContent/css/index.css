@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+#main {
+	padding: 10px 0;
+}
+
+#main h2 {
+	text-align: center;
+}
+
+#main .description {
+	font-weight: 700;
+}
